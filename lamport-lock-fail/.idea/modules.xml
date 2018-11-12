@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamport-lock-fail.iml" filepath="$PROJECT_DIR$/.idea/modules/lamport-lock-fail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamport-lock-fail_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lamport-lock-fail_main.iml" group="lamport-lock-fail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamport-lock-fail_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lamport-lock-fail_test.iml" group="lamport-lock-fail" />
+    </modules>
+  </component>
+</project>
