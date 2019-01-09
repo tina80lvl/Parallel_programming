@@ -1,0 +1,1 @@
+JMH S 24 counter.CounterBenchmark S 46 counter.generated.CounterBenchmark_inc_jmhTest S 3 inc S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 1 s E I 1 1 E E E E E M 1 4 work 4 1 1 2 10 2 50 3 100 U 11 NANOSECONDS E E 
